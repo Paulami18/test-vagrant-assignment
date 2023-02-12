@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/PAULAMI D/IdeaProjects/test-vagrant-assignment">
+    <classes>
+        <class name="com.testvagrant.rcb.assignment.test.TestScenario"><methods><include name="validateForeignPlayers"/><include name="validateNumberOfKeepers"/></methods></class>
+    </classes>
+    </test>
+</suite>

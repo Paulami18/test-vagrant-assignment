@@ -1,0 +1,13 @@
+#Package file#
+
+
+*.jar
+*.war
+*.ear
+*.zip
+
+#Others#
+
+.classpath
+.project
+.idea
